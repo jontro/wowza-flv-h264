@@ -1,0 +1,1 @@
+This project is a Wowza java-module for re-encoding incoming flash rtmp streams to h264 streams using xuggler.
